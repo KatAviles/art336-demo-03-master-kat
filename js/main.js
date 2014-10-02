@@ -43,13 +43,12 @@
 
 // initialize Menu Button Expand/Collapse
 // Remove /* and */ to initiate the plugin
-/* $(document).ready(function(){
+$(document).ready(function(){
     $(".toggle-button").next("ul").hide();
     $(".toggle-button").click(function(){
         $(".toggle-button").next("ul").slideToggle();
     });
-});*/
-
+});
 
 // initialize responsiveslides.js
 // Remove /* and */ to initiate the plugin
